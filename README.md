@@ -1,7 +1,5 @@
 # Background  #
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-
 I'm Meshu Deb Nath, originally from Bangladesh, I moved to Germany for studying a Master's in Web Engineering at Technische Universität Chemnitz, my goal is to develop front-end and back-end Web Applications (Full-stack) using HTML, CSS & JavaScript as the main front-end stack and NodeJS, ExpressJS, MongoDB & Mongoose as the back-end server-side stack.
 
 I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
