@@ -6,7 +6,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 # Skills #
 
-- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=JavaScript&logo=JavaScript&logoColor=Orange&style=for-the-badge">
+- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=JavaScript&logo=JavaScript&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Java&logo=Java&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Black&label=Php&logo=Php&logoColor=White&style=for-the-badge">
 
 - Web Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
 
