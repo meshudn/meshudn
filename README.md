@@ -1,8 +1,8 @@
 # Background  #
 
-I'm Meshu Deb Nath, originally from Bangladesh, In 2019, I moved in Germany for studying Master's in Web Engineering at Technische Universität Chemnitz, my goal is to develop front-end and back-end Web Applications (Full-stack) using HTML, CSS & JavaScript, React as the main front-end stack and NodeJS, ExpressJS, MongoDB & Mongoose as the back-end server-side stack.
+I'm Meshu Deb Nath, originally from Bangladesh, In 2019, I moved in Germany for studying Master's in Web Engineering at Technische Universität Chemnitz.
 
-I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
+I am looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
 
 # Skills #
 
@@ -16,7 +16,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 - Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
 
-- Software Engineering - **Full Software Development Life Cycle**
+- Software Engineering - **Software Development Life Cycle**
 
 - Agile Methodologies - **SCRUM**
 
