@@ -27,8 +27,6 @@ I am looking to contribute to open-source projects to improve my skills and also
 # Facts #
 
 - 🔭 I’m currently **looking for an Internship (Werkstudent) position.**
-
-- 🌱 I’m currently learning: **MERN Stack, to develop Full-Stack web applications**
 - 👯 I’m looking to collaborate on: **Open-source projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
