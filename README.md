@@ -20,7 +20,7 @@ I am looking to contribute to open-source projects to improve my skills and also
 
 - Agile Methodologies - **SCRUM**
 
-- Software Design - **UML Class Diagrams, Sequence Diagrams, Flowcharts**
+- Software Design - **UML Class Diagrams, Sequence Diagrams**
 
 
 
