@@ -16,8 +16,6 @@ I am looking to contribute to open-source projects to improve my skills and also
 
 - Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
 
-- Software Engineering - **Software Development Life Cycle**
-
 - Agile Methodologies - **SCRUM**
 
 - Software Design - **UML Class Diagrams, Sequence Diagrams**
