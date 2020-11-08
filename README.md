@@ -28,7 +28,7 @@ I am looking to contribute to open-source projects to improve my skills and also
 - 👯 I’m looking to collaborate on: **Open-source projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
-- ⚡ Fun fact: **I love cycling, I also love to read Software Engineering books and to study**
+- ⚡ Fun fact: **love cycling, hiking and playing guitar**
 
 # Social Media #
 
