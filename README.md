@@ -1,8 +1,8 @@
 # Background  #
 
-I'm Meshu Deb Nath, originally from Bangladesh, In 2019, I moved in Germany for studying Master's in Web Engineering at Technische Universität Chemnitz. (Currently in 2nd semester)
+Hi there, I'm Meshu Deb Nath living in Chemnitz, Germany. I'm studying Master's in Web Engineering at Technische Universität Chemnitz. (Currently in 2nd semester)
 
-I am looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
+I am looking for open-source projects to contribute and improve my skills. Currently interested in Microservice architectures, dockers, kubernetes, devOps. Ping me if you have any idea for collaboration. 
 
 # Skills #
 
