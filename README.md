@@ -6,21 +6,21 @@ I am looking for open-source projects to contribute and improve my skills. Curre
 
 # Skills #
 
-- Programming Languages - **C, Java, C#
+- Programming Languages - **C, Java, C#**
 
-- Scripting Languages - **JavaScript, TypeScript, Phython, PHP, HTML5, CSS3, SASS, XML.
+- Scripting Languages - **JavaScript, TypeScript, Phython, PHP, HTML5, CSS3, SASS, XML.**
 
-- Libraries/Frameworks - **ReactJs, NodeJs, ExpressJs, Redux, REST APIs, GraphQL, RabbitMQ, ASP.Net 
+- Libraries/Frameworks - **ReactJs, NodeJs, ExpressJs, Redux, REST APIs, GraphQL, RabbitMQ, ASP.Net**
 
-- Databases - **MongoDB, mySQL, PostgreSQL, 
+- Databases - **MongoDB, mySQL, PostgreSQL** 
 
-- Tools - **Git, Trello
+- Tools - **Git, Trello**
 
 - Agile Methodologies - **SCRUM**
 
-- Software Design - **Microservice patterns, event-driven, design system pattern
+- Software Design - **Microservice patterns, Event-driven**
 
-- DevOps - **Docker, Kubernetes, Gitlab CI, Linux.
+- DevOps - **Docker, Kubernetes, Gitlab CI, Linux**
 
 
 # Facts #
