@@ -6,20 +6,21 @@ I am looking for open-source projects to contribute and improve my skills. Curre
 
 # Skills #
 
-- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=JavaScript&logo=JavaScript&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Java&logo=Java&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Black&label=Php&logo=Php&logoColor=White&style=for-the-badge">
+- Programming Languages - C, Java, C#
 
-- Scripting Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
+- Scripting Languages - JavaScript, TypeScript, Phython, PHP, HTML5, CSS3, SASS, XML.
 
-- Libraries/Frameworks - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=ReactJs&logo=JavaScript&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=NodeJS&logo=JavaScript&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=ExpressJS&logo=JavaScript&logoColor=Green&style=for-the-badge">
+- Libraries/Frameworks - ReactJs, NodeJs, ExpressJs, Redux, REST APIs, GraphQL, RabbitMQ, ASP.Net 
 
-- Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=SQL&logo=MySQL&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=MongoDB&logo=MongoDB&logoColor=Green&style=for-the-badge">
+- Databases - MongoDB, mySQL, PostgreSQL, 
 
-- Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
+- Tools - Git, Trello
 
 - Agile Methodologies - **SCRUM**
 
-- Software Design - **UML Class Diagrams, Sequence Diagrams**
+- Software Design - Microservice patterns, event-driven, design system pattern
 
+- DevOps - Docker, Kubernetes, Gitlab CI, Linux.
 
 
 # Facts #
