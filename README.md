@@ -8,7 +8,7 @@ I am looking for open-source projects to contribute and improve my skills. Curre
 
 - Programming Languages - **C, Java, C#**
 
-- Scripting Languages - **JavaScript, TypeScript, Phython, PHP, HTML5, CSS3, SASS, XML.**
+- Scripting Languages - **JavaScript, TypeScript, Python, PHP, HTML5, CSS3, SASS, XML.**
 
 - Libraries/Frameworks - **ReactJs, NodeJs, ExpressJs, Redux, REST APIs, GraphQL, RabbitMQ, ASP.Net**
 
