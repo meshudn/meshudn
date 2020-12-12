@@ -6,7 +6,7 @@ I am looking for open-source projects to contribute and improve my skills. Curre
 
 # Skills #
 
-- Programming Languages - **C, Java, C#**
+- Programming Languages - **C, C++, Java, C#**
 
 - Scripting Languages - **JavaScript, TypeScript, Python, PHP, HTML5, CSS3, SASS, XML.**
 
