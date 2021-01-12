@@ -36,3 +36,4 @@ I am looking for open-source projects to contribute and improve my skills. Curre
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/meshu3369)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meshudebnath/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/notmeshu/)
+[![Meshu's github stats](https://github-readme-stats.vercel.app/api?username=meshudn)](https://github.com/anuraghazra/github-readme-stats)
