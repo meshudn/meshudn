@@ -1,14 +1,14 @@
 # Background  #
 
-Hi there, I'm Meshu Deb Nath living in Chemnitz, Germany. I'm studying Master's in Web Engineering at Technische Universität Chemnitz. (Currently in 2nd semester)
+Hi there, I'm Meshu Deb Nath living in Chemnitz, Germany. I'm studying Master's in Web Engineering at Technische Universität Chemnitz. (Currently in 3rd semester)
 
 I am looking for open-source projects to contribute and improve my skills. Currently interested in Microservice architectures, dockers, kubernetes, devOps. Ping me if you have any idea for collaboration. 
 
 # Skills #
 
-- Programming Languages - **C, C++, Java, C#**
+- Programming Languages - **C++, Java, Python, C#**
 
-- Scripting Languages - **JavaScript, TypeScript, Python, PHP, HTML5, CSS3, SASS, XML.**
+- Scripting Languages - **JavaScript, TypeScript, PHP, HTML5, CSS3, SASS, XML.**
 
 - Libraries/Frameworks - **ReactJs, NodeJs, ExpressJs, Redux, REST APIs, GraphQL, RabbitMQ, ASP.Net, Android SDK**
 
