@@ -1,6 +1,6 @@
 # Background  #
 
-Hi there, I'm Meshu Deb Nath living in Chemnitz, Germany. I'm studying Master's in Web Engineering at Technische Universität Chemnitz. (Currently in 3rd semester)
+Hi there, I'm Meshu Deb Nath living in Chemnitz, Germany. I'm studying Master's in Web Engineering at Technische Universität Chemnitz. (Currently in 4th semester)
 
 I am looking for open-source projects to contribute and improve my skills. Currently interested in Microservice architectures, dockers, kubernetes, devOps. Ping me if you have any idea for collaboration. 
 
