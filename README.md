@@ -1,6 +1,6 @@
 # Background  #
 
-Hi there, I'm Meshu Deb Nath living in Chemnitz, Germany. I'm studying Master's in Web Engineering at Technische Universität Chemnitz.
+Hi there, I'm Meshu Deb Nath, studying Master's in Web Engineering at Technische Universität Chemnitz.
 
 I am looking for open-source projects to contribute and improve my skills. Ping me if you have any idea for collaboration. 
 
@@ -24,8 +24,6 @@ I am looking for open-source projects to contribute and improve my skills. Ping 
 
 
 # Facts #
-
-- 🔭 I’m currently **looking for a thesis opportunity.**
 - 👯 I’m looking to collaborate on: **Open-source projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
