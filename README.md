@@ -21,13 +21,12 @@ Hello from a blurry coder.
 
 
 # Facts #
-- 👯 I’m looking to collaborate on: **Open-source projects.**
+- 👯 I’m looking to collaborate on: High frequency Trading projects / Trading with ML related developments.
 
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
 - ⚡ Fun fact: **love cycling, hiking and playing guitar**
 
 # Social Media #
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/meshu3369)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meshudebnath/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/notmeshu/)
