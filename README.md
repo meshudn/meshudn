@@ -5,7 +5,7 @@ Hello from a blurry coder.
 
 - Programming Languages - **C++, Java, Python, Golang**
 
-- Scripting Languages - **JavaScript, TypeScript, PHP, HTML5, CSS3, SASS, XML.**
+- Scripting Languages - **TypeScript, PHP, HTML5, CSS3, SASS, XML.**
 
 - Libraries/Frameworks - **NodeJs (ReactJs, Angular, Vue), GraphQL-Apollo/Hasura, RabbitMQ, Android SDK**
 
@@ -18,6 +18,8 @@ Hello from a blurry coder.
 - Software Design - **Microservice patterns**
 
 - DevOps - **Docker, Kubernetes, AWS**
+
+- Machine Learning - SciKit, Tensorflow, GenAI, Model building / Analysis
 
 
 # Facts #
