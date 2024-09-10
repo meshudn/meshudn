@@ -19,7 +19,7 @@ Hello from a blurry coder.
 
 - DevOps - **Docker, Kubernetes, AWS**
 
-- Machine Learning - SciKit, Tensorflow, GenAI, Model building / Analysis
+- Machine Learning - SciKit-learn, Tensorflow, GenAI, Model building / Analysis
 
 
 # Facts #
